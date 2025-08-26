@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtualenv
+.venv/
+venv/
+.env
+
+# PyCharm
+.idea/
+*.iml
+
+# Jupyter
+.ipynb_checkpoints
+
+# OS files
+.DS_Store
+Thumbs.db
